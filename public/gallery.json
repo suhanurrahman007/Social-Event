@@ -1,0 +1,76 @@
+[{
+        "id": 1,
+        "image": "https://i.ibb.co/S7qpdNW/Holiday-Parties.jpg",
+        "category": "corporate"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/rMDVM5q/Birthdays.jpg",
+        "category": "wedding"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/X4LMr3B/Graduations.jpg",
+        "category": "corporate"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/4fhgVkF/Bridal-and-Baby-Showers.webp",
+        "category": "wedding"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/bvtGhm2/Anniversaries.jpg",
+        "category": "wedding"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/gmhpJzq/Bar-and-Bat-Mitzvahs.jpg",
+        "category": "corporate"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/m6LLpcs/Engagement-Parties.jpg",
+        "category": "wedding"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/4M9R2kf/Special-Occasions.jpg",
+        "category": "corporate"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/1QrmzcB/wedding.jpg",
+        "category": "wedding"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/LSdyVC8/image-d620c54a0f.jpg",
+        "category": "corporate"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/mNFP2TH/Getty-Images.jpg",
+        "category": "social"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/2FrVwzS/Banner-3-1.webp",
+        "category": "wedding"
+    },
+    {
+        "id": 13,
+        "image": "https://i.ibb.co/BTxVQbm/FR0klUb.jpg",
+        "category": "social"
+    },
+    {
+        "id": 14,
+        "image": "https://i.ibb.co/KVsKhsf/1296x728-5-tips.webp",
+        "category": "social"
+    },
+    {
+        "id": 15,
+        "image": "https://i.ibb.co/gMVhyG2/48489707011-e1a71bd501-k.jpg",
+        "category": "social"
+    }
+]

@@ -1,0 +1,57 @@
+[{
+        "id": 1,
+        "image": "https://i.ibb.co/S7qpdNW/Holiday-Parties.jpg",
+        "price": 50,
+        "description": "Join us for a magical evening filled with the spirit of winter. This holiday party promises an unforgettable experience with snowflakes, elegant decorations, and a gourmet dinner.",
+        "category": "Holiday Parties"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/rMDVM5q/Birthdays.jpg",
+        "price": 30,
+        "description": "Celebrate Sarah's transition into womanhood with a sweet sixteen party to remember. The event will feature a DJ, delicious food, and fun games.",
+        "category": "Birthdays"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/X4LMr3B/Graduations.jpg",
+        "price": 40,
+        "description": "Honor John's achievement and journey as he graduates from college. The ceremony will be followed by a reception with light refreshments.",
+        "category": "Graduations"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/4fhgVkF/Bridal-and-Baby-Showers.webp",
+        "price": 60,
+        "description": "Emily is stepping into a new chapter of her life, and we're throwing a bridal shower in her honor. Come with your wishes and maybe a gift or two!",
+        "category": "Baby Showers"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/bvtGhm2/Anniversaries.jpg",
+        "price": 70,
+        "description": "Celebrate a love story that has withstood the test of time. Marking 25 years of marriage, this anniversary party is a testament to enduring love and commitment.",
+        "category": "Anniversaries"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/gmhpJzq/Bar-and-Bat-Mitzvahs.jpg",
+        "price": 80,
+        "description": "Witness Ethan's transition into manhood with this significant religious ceremony. Join the family in celebrating this momentous occasion.",
+        "category": "Bar and Bat Mitzvahs"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/m6LLpcs/Engagement-Parties.jpg",
+        "price": 55,
+        "description": "Kate and Sam are tying the knot! But first, let's come together for an engagement party filled with joy, laughter, and memories.",
+        "category": "Engagement Parties"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/4M9R2kf/Special-Occasions.jpg",
+        "price": 45,
+        "description": "Celebrate the beauty of summer with an event that brings together all types of special occasions. Expect good music, great food, and even better company.",
+        "category": "Special Occasions"
+    }
+]
